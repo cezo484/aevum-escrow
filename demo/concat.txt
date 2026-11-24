@@ -1,0 +1,17 @@
+file 'slides/01-title.png'
+duration 5
+file 'slides/02-problem.png'
+duration 5
+file 'slides/03-step1.png'
+duration 6
+file 'slides/04-step2.png'
+duration 5
+file 'slides/05-step3.png'
+duration 6
+file 'slides/06-safety.png'
+duration 6
+file 'slides/07-live.png'
+duration 6
+file 'slides/08-close.png'
+duration 5
+file 'slides/08-close.png'
